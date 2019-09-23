@@ -1,0 +1,25 @@
+{
+  "name": "express-start",
+  "version": "1.0.0",
+  "description": "A boilerplate for express.js with swagger intergration, typescript and unit test platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anis-b-amara/express-start.git"
+  },
+  "keywords": [
+    "expressjs",
+    "swagger",
+    "typescript",
+    "jasmine"
+  ],
+  "author": "Anis Ben Amara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anis-b-amara/express-start/issues"
+  },
+  "homepage": "https://github.com/anis-b-amara/express-start#readme"
+}
