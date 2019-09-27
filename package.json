@@ -1,7 +1,7 @@
 {
   "name": "express-start",
   "version": "1.0.0",
-  "description": "A boilerplate for express.js with swagger intergration, typescript and unit test platform",
+  "description": "A boilerplate for express.js with swagger intergration, eslint and unit test platform",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,7 +14,7 @@
   "keywords": [
     "expressjs",
     "swagger",
-    "typescript",
+    "eslint",
     "jasmine"
   ],
   "author": "Anis Ben Amara",
@@ -25,5 +25,10 @@
   "homepage": "https://github.com/anis-b-amara/express-start#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
   }
 }
