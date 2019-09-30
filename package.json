@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node -r esm index.js",
+    "dev": "nodemon -r esm index.js",
     "test": "npm test"
   },
   "repository": {
@@ -31,6 +32,7 @@
   "devDependencies": {
     "eslint": "^6.4.0",
     "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.18.2"
+    "eslint-plugin-import": "^2.18.2",
+    "nodemon": "^1.19.3"
   }
 }
