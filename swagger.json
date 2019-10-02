@@ -4,5 +4,6 @@
     "version": "1.0.0",
     "title": "Express-start",
     "description": "A minimal express API with eslint, swagger and jasmine"
-  }
+  },
+  
 }
